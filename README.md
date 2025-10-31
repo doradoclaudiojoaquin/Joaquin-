@@ -1,2 +1,0 @@
-# Joaquin-
-Analisis predictivo
